@@ -12,6 +12,7 @@ Toutes les contributions soumises aux projets de cette organisation :
 - sont soumises à la politique de contribution et de propriété intellectuelle de l'association 900m.
 
 Veuillez lire l'intégralité de cette politique avant de contribuer :
+https://github.com/900m-org/.github/blob/main/CONTRIBUTING.md
 
 
 ## Contributor Notice

@@ -1,4 +1,4 @@
-*(English bellow)*
+*(English below)*
 
 # Déclaration relative à la propriété intellectuelle
 

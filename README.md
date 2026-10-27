@@ -1,5 +1,3 @@
-# .github
-
 # 900M
 
 *(English below)*
